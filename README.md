@@ -16,7 +16,7 @@ Requirements
 To run this project, you will need:
 
 
-Python 3.x
-Pandas
-SQLAlchemy
+Python 3.x,
+Pandas,
+SQLAlchemy,
 psycopg2 (PostgreSQL adapter for Python)
